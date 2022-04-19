@@ -14,7 +14,7 @@ import java.util.List;
 public class AzurecurdDemoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AzurecurdDemoApplication.class, args);
+		SpringApplication.run(AzurecurdDemoApplication.class, args); 
 	}
 
 }
